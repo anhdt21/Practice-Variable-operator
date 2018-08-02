@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Bai1 {
-    public static float nhapSo(String str) {
+    private static float nhapSo(String str) {
         float x;
         Scanner sc = new Scanner(System.in);
         System.out.println(str);
